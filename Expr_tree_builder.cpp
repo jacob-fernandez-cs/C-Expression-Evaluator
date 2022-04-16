@@ -92,9 +92,7 @@ void Expr_tree_builder::build_addition_operator(void)
     }
 }
 
-//
-// build_subtract_op
-//
+
 void Expr_tree_builder::build_subtraction_operator(void)
 {
     // if rootNode_ is empty set rootNode_ to a new Subtraction_node

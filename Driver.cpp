@@ -6,6 +6,8 @@
 #include <sstream>
 #include <string>
 
+// COMMENT You used the patterns correctly. Clean up your code.
+
 int main()
 {
     bool keepGoing = true;
